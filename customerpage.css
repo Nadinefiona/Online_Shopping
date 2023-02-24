@@ -1,0 +1,55 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    text-align: center;
+    background-color: rgb(211, 194, 194);
+}
+.navbar{
+    background-color: rgb(231, 149, 163);
+    padding: 14px 10px;
+}
+.navbar h1{
+    font-style: oblique;
+    font-weight: lighter;
+    font-size: 40px;
+    color: white;
+}
+.page{
+    display: flex;
+}
+button:hover{
+    background-color: red;
+}
+button{
+    margin: 1rem 0rem 3rem -8rem;
+    padding: 5px 1rem;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: italic;
+}
+.page .b1{
+    margin-left: 0rem;
+    padding: 5px 1rem;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: italic;
+}
+.page .b2{
+   margin-top: 15rem;
+   margin-left: -7rem;
+   padding: 5px 1rem;
+   font-size: 20px;
+   font-weight: 700;
+   font-style: italic;
+}
+img{
+   width: 70%;
+   height: 10%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

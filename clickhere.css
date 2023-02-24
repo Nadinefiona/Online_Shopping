@@ -1,0 +1,67 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    text-align: center;
+    background-color: rgb(211, 194, 194);
+}
+.navbar{
+    background-color: rgb(231, 149, 163);
+    padding: 14px 10px;
+}
+.navbar h1{
+    font-style: oblique;
+    font-weight: lighter;
+    font-size: 40px;
+    color: white;
+}
+form{
+    background-color: rgb(29, 190, 29);
+    margin-left: 33rem ;
+    margin-right: 33rem;
+    font-weight: bolder;
+}
+input{
+    padding: .7rem .5rem;
+    margin-bottom: 2.2rem;
+    border: none;
+    margin-left: 1rem;
+    color: white;
+}
+label{
+    color: white;
+}
+button{
+    border-radius: 5px; 
+    color: black; 
+    padding: .8rem 2rem;
+    font-weight: bolder;
+    font-size: 1rem;
+    border: none;
+    margin-bottom: 4.5rem;
+    margin-top: .1rem;
+    font-style: italic;
+    cursor:  pointer;
+}
+.click{
+    margin-top: 2.7rem;
+}
+.click2{
+    margin-left: .8rem;
+    padding: .9rem 2rem;
+}
+.click1{
+    padding: .9rem 2rem;
+}
+.projee h1{
+    font-style: oblique;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+button:hover{
+    background-color: red;
+}
